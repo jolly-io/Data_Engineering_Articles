@@ -27,4 +27,4 @@ Data Maturity is the progression from basic towards advanced data utilization, c
 - `Scaliing with Data`
 - `Leading with Data`
 
-In general, the role of a data engineering evolves from a generalist to a specialist as an organization advanced through these stages of the data maturity model.
+In general, the role of a data engineer evolves from a generalist to a specialist as an organization advances through these stages of the data maturity model.
