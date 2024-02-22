@@ -35,4 +35,5 @@ In general, the role of a data engineer evolves from a generalist to a specialis
 - Understand the foundations of Agile, DevOps and DataOps
 - Control Costs
 - Learn Continuously
-A successful data engineer always zooms out to understand the big picture and how achieve outsized value for the business.
+
+A successful data engineer always zooms out to understand the big picture and how to achieve outsized value for the business.
