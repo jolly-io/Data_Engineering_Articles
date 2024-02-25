@@ -37,3 +37,10 @@ In general, the role of a data engineer evolves from a generalist to a specialis
 - Learn Continuously
 
 A successful data engineer always zooms out to understand the big picture and how to achieve outsized value for the business.
+
+## Technical Responsibilities of a Data Engineer
+At a high level, data engineers must understand how to build architectures that optimize performance and cost, using using off-the-shelf and proprietary components. The primary languages of data engineering are 
+- `SQL`
+- `Python`
+- `Java` or `Scala`
+  
