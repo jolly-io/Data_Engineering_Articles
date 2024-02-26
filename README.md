@@ -42,7 +42,8 @@ A successful data engineer always zooms out to understand the big picture and ho
 At a high level, data engineers must understand how to build architectures that optimize performance and cost, using using off-the-shelf and proprietary components. The primary languages of data engineering are 
 - `SQL`
 - `Python`
-- `Java` or `Scala` and `Bash`
+- `Java` or `Scala`
+- `Bash`
 
   
   
