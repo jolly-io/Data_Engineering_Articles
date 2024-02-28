@@ -45,4 +45,6 @@ At a high level, data engineers must understand how to build architectures that 
 - `Java` or `Scala`
 - `Bash`
 
-The reality of the industry is that data engineers are most often than not required to understand the fundamentals of software engineering; sometimes even required to be software engineers. Thus data engineers may need to develop proficiency in secondary programming languages, including R, JavaScript, Go, Rust, C/C++, c# and Julia.
+The reality of the industry is that data engineers are most often than not required to understand the fundamentals of software engineering; sometimes even required to be software engineers. Thus data engineers may need to develop proficiency in secondary programming languages, including R, JavaScript, Go, Rust, C/C++, c# and Julia. 
+
+As far as keeping ones skills sharp in a rapidly changing field like data engineering ? A good approach is to start by focusing on the fundamentals to understand what's not going to change and pay attention to ongoing developements to know know where the field is going. 
