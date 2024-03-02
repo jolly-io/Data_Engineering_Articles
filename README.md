@@ -49,4 +49,3 @@ The reality of the industry is that data engineers are most often than not requi
 
 As far as keeping ones skills sharp in a rapidly changing field like data engineering ? A good approach is to start by focusing on the fundamentals to understand what's not going to change and pay attention to ongoing developements to know know where the field is headed. 
 
-In a nutshell, the future of data engineering is the convergence of disciplines.
