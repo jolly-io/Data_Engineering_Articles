@@ -49,3 +49,15 @@ The reality of the industry is that data engineers are most often than not requi
 
 As far as keeping ones skills sharp in a rapidly changing field like data engineering ? A good approach is to start by focusing on the fundamentals to understand what's not going to change and pay attention to ongoing developements to know know where the field is headed. 
 
+## Notion of Type A and Type B Data Engineers
+
+*Type A ~ Abstraction ~ Data Engineers* 
+
+These types of data engineers in their roles avoid undifferentiated heavy lifting, keeping data architecture as abstract and straightforward as possible and not reinventing the wheel. In practice,they do not attempt to reinvent the wheel and use of-the-shelf products, managed services and tools. 
+
+*Type B ~ Build ~ Data Engineers*
+
+These type of data engineers build data tools and systems that scale and leverage a company's core competency and competitive advantage. Type A and B data engineers may work in the same company and may or may not be the same person!
+
+
+
