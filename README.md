@@ -53,7 +53,7 @@ As far as keeping ones skills sharp in a rapidly changing field like data engine
 
 *Type A ~ Abstraction ~ Data Engineers* 
 
-These types of data engineers in their roles avoid undifferentiated heavy lifting, keeping data architecture as abstract and straightforward as possible and not reinventing the wheel. In practice,they do not attempt to reinvent the wheel and leverage off-the-shelf products and managed services and tools. 
+These types of data engineers in their roles avoid undifferentiated heavy lifting, keeping data architecture as abstract and straightforward as possible and not reinventing the wheel. In practice, they do not attempt to reinvent the wheel and leverage off-the-shelf products and managed services and tools. 
 
 *Type B ~ Build ~ Data Engineers*
 
