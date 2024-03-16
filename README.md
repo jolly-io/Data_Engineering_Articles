@@ -9,7 +9,7 @@ Data Engineering is the development, implementation, and maintenance of systems 
 ### Data Engineering Lifecycle: The stages of data engineering lifecyle are as follows:
 - Generation:
   * The data used in the data engineering lifecyle originates within/from source systems.For example, a source system could be an IOT device, an application message queue, or a transactional database. A data engineer needs to have a working knowledge of how a given source system operates, generates its data, the frequency, velocity
-    and variety of the the data it generates.
+    and variety of the data it generates.
 - Storage
 -  Ingestion
 -  Transformation
