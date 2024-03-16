@@ -7,8 +7,9 @@ This is a journal of my personal study on Data Engineering
 Data Engineering is the development, implementation, and maintenance of systems and processes that take in raw data (generate and ingest), transforms it and produce high-quality consistent information that supports downstream use cases - (I'll come up with analogy in the oil industry to drive this idea home.
 
 ### Data Engineering Lifecycle: The stages of data engineering lifecyle are as follows:
-- Generation
--  Storage
+- Generation:
+  * The data used in the data engineering lifecyle originates within/from source systems.For example, a source system could be an IOT device, an application message queue, or a transactional database. 
+- Storage
 -  Ingestion
 -  Transformation
 -  Serving
@@ -58,6 +59,8 @@ These types of data engineers in their roles avoid undifferentiated heavy liftin
 *Type B ~ Build ~ Data Engineers*
 
 These type of data engineers build data tools and systems that scale and leverage a company's core competency and competitive advantage. Type A and B data engineers may work in the same company and at times may or may not be the same person!
+
+
 
 
 
