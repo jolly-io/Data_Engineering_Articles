@@ -7,7 +7,7 @@ This is a journal of my personal study on Data Engineering
 Data Engineering is the development, implementation, and maintenance of systems and processes that take in raw data (generate and ingest), transforms it and produce high-quality consistent information that supports downstream use cases - (I'll come up with analogy in the oil industry to drive this idea home.
 
 ### Data Engineering Lifecycle: The stages of data engineering lifecyle are as follows:
-- Generation:
+- `Generation`:
   * The data used in the data engineering lifecyle originates within/from source systems.For example, a source system could be an IOT device, an application message queue, or a transactional database. A data engineer needs to have a working knowledge of how a given source system operates, generates its data, the frequency, velocity
     and variety of the data it generates. Engineers need to maintain a line of communication with source systems owners to stay up-to-date on changes that can impact data pipelines and analytics.
      - `The following questions can be asked to evaluate a source system:`
@@ -17,7 +17,8 @@ Data Engineering is the development, implementation, and maintenance of systems 
      - What is the schema of the ingested data?
      - How frequently should data be pulled from the source system?
      - Will reading from a data source impact its performance?
-- Storage
+- `Storage`:
+  * Choosing a storage solution is key to success across the rest of the data lifecycle. Storage is also one of the more complicated stages of the lifecycle for a number of reasons. First is that cloud storage solutions often requires use of more than a single source of truth.
 -  Ingestion
 -  Transformation
 -  Serving
