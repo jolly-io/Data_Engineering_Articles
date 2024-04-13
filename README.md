@@ -18,7 +18,7 @@ Data Engineering is the development, implementation, and maintenance of systems 
      - How frequently should data be pulled from the source system?
      - Will reading from a data source impact its performance?
          * `Understanding Data Access Frequency`:
-         * Data retrieval patterns will vary based on the data being stored and how often it is queried. Data access frequency will determine the temperature of the data. Data that is most frequently accessed is known as `hot data`. Hot data is commonly retreived multiple times per day.
+         * Data retrieval patterns will vary based on the data being stored and how often it is queried. Data access frequency will determine the temperature of the data. Data that is most frequently accessed is known as `hot data`. Hot data is commonly retreived multiple times per day. For example, systems that service user requests            CRM systems, ticketting systems etc. And then, there is `lukewarm data` and `cold data` that less frequently accessed.
 - `Storage`:
   * Choosing a storage solution is key to success across the rest of the data lifecycle. Storage is also one of the more complicated stages of the lifecycle for a number of reasons. First is that cloud storage solutions often requires use of more than a single source of truth. Storage solutions are rarely exclusively purposed for 
     storage. They can be used for transformation capabilities as well. Amazon S3 select is good example of this. While storage is a phase of the data engineering lifecycle, it frequently touches on other stages, such as ingestion, transformation, and serving. In many ways, the way data is stored impacts how it is used in all of the 
