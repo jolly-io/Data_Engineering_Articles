@@ -22,8 +22,11 @@ Data Engineering is the development, implementation, and maintenance of systems 
     storage. They can be used for transformation capabilities as well. Amazon S3 select is good example of this. While storage is a phase of the data engineering lifecycle, it frequently touches on other stages, such as ingestion, transformation, and serving. In many ways, the way data is stored impacts how it is used in all of the 
     stages of the data engineering lifecyle. For instance, cloud warehouses can store data, process data in pipelines, and serve it to analysts. Streaming frameworks such as Apache Kafka, and Pulsar can ingest, store and query systems for messages, with object storage being a standard layer for data transmission.
 
-         * `Understanding Data Access Frequency`:
-         * Data retrieval patterns will vary based on the data being stored and how often it is queried. Data access frequency will determine the temperature of the data. Data that is most frequently accessed is known as `hot data`. Hot data is commonly retreived multiple times per day. For example, systems that service user requests            CRM systems, ticketting systems etc. And then, there is `lukewarm data` and `cold data` that are less frequently accessed.
+
+        Understanding Data Access Frequency:
+         * Data retrieval patterns will vary based on the data being stored and how often it is queried. Data access frequency will determine the temperature of the data. Data that is most frequently accessed is known as `hot data`.
+           Hot data is commonly retreived multiple times per day. For example, systems that service user requests
+           CRM systems, ticketting systems etc. And then, there is `lukewarm data` and `cold data` that are less frequently accessed.
 -  Ingestion:
    * After generation and storage, the next stage in the data lifecycle is data ingestion from source systems.
 -  Transformation
