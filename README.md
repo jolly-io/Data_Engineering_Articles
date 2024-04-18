@@ -28,7 +28,7 @@ Data Engineering is the development, implementation, and maintenance of systems 
            Hot data is commonly retreived multiple times per day. For example, systems that service user requests
            CRM systems, ticketting systems etc. And then, there is `lukewarm data` and `cold data` that are less frequently accessed.
 -  Ingestion:
-      * Source systems and Ingestion presents the most significant bottlenecks of the data engineering lifecycle. This is because the engineer has little to no control of these processes. 
+      * Source systems and Ingestion presents the most significant bottlenecks of the data engineering lifecycle. This is because the engineer has little to no control of the management of these two processes. 
    
 -  Transformation
 -  Serving
