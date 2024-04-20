@@ -33,7 +33,7 @@ Data Engineering is the development, implementation, and maintenance of systems 
 -  Transformation
 -  Serving
 
-  There is also the notion of undercurrents - these are critical themes and concepts around the end-to-end lifecycle. These include the following
+  There is also the notion of `undercurrents` - these are critical themes and concepts around the end-to-end lifecycle. These include the following
 - Security
 - Data Management
 - DataOps
