@@ -1,6 +1,6 @@
 ## Data_Engineering_Articles
 
-This is a journal of my on-going study on Data Engineering
+This is a journal of my on-going study and research on Data Engineering Ecosystem
 
 ## What is Data Engineering?
 
