@@ -33,7 +33,8 @@ Data Engineering is the development, implementation, and maintenance of systems 
         - How frequently will the data be accessed?
         - Is the data being reliably generated and available on demand?
         - In what volume will the data typically arrive?
-        - What format is the data in?
+        - What format is the data in? Can your downstream storage and transformation systems handle this format?
+        - Is the source data in good shape for immediate downstream use? And for how long?
 -  Transformation
 -  Serving
 
