@@ -27,7 +27,7 @@ Data Engineering is the development, implementation, and maintenance of systems 
          * Data retrieval patterns will vary based on the data being stored and how often it is queried. Data access frequency will determine the temperature of the data. Data that is most frequently accessed is known as `hot data`.
            Hot data is commonly retreived multiple times per day. For example, systems that service user requests
            CRM systems, ticketting systems etc. And then, there is `lukewarm data` and `cold data` that are less frequently accessed.
--  Ingestion:
+-  `Ingestion`:
       * Source systems and Ingestion presents the most significant bottle-necks of the data engineering lifecycle. This is because the engineer has little to no control of the management of these two processes. Unreliable source and ingestion systems have ripple effects across the data engineering lifecyle. To architect and build a system, the following considerations are critical to keep in mind:
         - What are the use cases for the data being ingested? Is the data good for reuse rather than creating multiple versions of the same dataset?
         - How frequently will the data be accessed?
