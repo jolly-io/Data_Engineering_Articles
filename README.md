@@ -81,7 +81,7 @@ These types of data engineers in their roles avoid undifferentiated heavy liftin
 
 *Type B ~ Build ~ Data Engineers*
 
-These type of data engineers build data tools and systems that scale and leverage a company's core competency and competitive advantage. Type A and B data engineers may work in the same company and at times may or may not be the same person!
+These types of data engineers build data tools and systems that scale and leverage a company's core competency and competitive advantage. Type A and B data engineers may work in the same company and at times may or may not be the same person!
 
 
 
